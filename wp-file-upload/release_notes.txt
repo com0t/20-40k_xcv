@@ -1,0 +1,3 @@
+<!--  --><span><strong>Version 4.16.2</strong> together with <strong>4.16.1</strong> are minor updates that introduce minor fixes.<br /><br />
+For more details about this version's changes please visit the <strong>Release Notes</strong> of the plugin's </span><a href="http://www.iptanus.com/wordpress-plugins/wordpress-file-upload/">support page</a><span>.</span><!--  -->
+<!--  -->

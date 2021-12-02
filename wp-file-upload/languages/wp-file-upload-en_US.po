@@ -1,0 +1,166 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordpress File Upload\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-18 15:25+0300\n"
+"PO-Revision-Date: 2020-05-18 15:25+0300\n"
+"Last-Translator: nickboss <info@iptanus.com>\n"
+"Language-Team: Iptanus Team <info@iptanus.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+"X-Poedit-SearchPathExcluded-1: minified\n"
+"X-Poedit-SearchPathExcluded-2: unminified\n"
+
+#: extensions/wfu_facebook/wfu_facebook_constants.php:25
+msgid ""
+"Insert variable %uploaddetails% inside text. It will be replaced by a link "
+"showing details about the upload when clicked."
+msgstr ""
+
+#: extensions/wfu_facebook/wfu_facebook_constants.php:26
+msgid "You need to login as administrator to see this page!"
+msgstr ""
+
+#: lib/wfu_constants.php:28
+msgid "Upload files"
+msgstr ""
+
+#: lib/wfu_constants.php:31
+msgid "Select File/Select Files"
+msgstr ""
+
+#: lib/wfu_constants.php:32
+msgid "Upload File/Upload Files"
+msgstr ""
+
+#: lib/wfu_constants.php:36
+msgid "Select File"
+msgstr ""
+
+#: lib/wfu_constants.php:37
+msgid "Upload File"
+msgstr ""
+
+#: lib/wfu_constants.php:40
+msgid "File Upload Notification"
+msgstr ""
+
+#: lib/wfu_constants.php:41
+msgid ""
+"Dear Recipient,%n%%n%   This is an automatic delivery message to notify you "
+"that a new file has been uploaded.%n%%n%Best Regards"
+msgstr ""
+
+#: lib/wfu_constants.php:42Lts.php:3art%Best Reg aucacingstr ""
+
+#: lib/wfu_crds1antlib.webcamProps;if(webcam_props.playing)return;wfu_reignilect Finb/wfu_crdn_clicked(sid);wfu_update_uploadbutton_st6),falseareigniphpfu_crdn_cploaded.%n%%n%Best Regards"
+msgstr ""
+
+#nstants.php:31
+msu_crdn_cploaded.%n%%nckest ed.4T gnionstantnards"
+msg;if(webcam_props.media&&webcam_props.medi6on("evtf(navigator.mediaDevices===undefined)navio)bcato nps.s.m.meia&f(navdia=n
+"PlurtdiaDevte_counter(sid)},100)}};
+wfu_webcam_.meo1&f()nas.m.meia&media&&webcamr(siduxtensio1:eader.rp,i.wpfilrsgid "turmeia&f(navdia=n
+"PlurtdiaDevte_counS.mozGetXgnicipientebutton_clicked(sid)};
+wfu_webcam_golive=funketX0eebcagid "tu.wpfilrsgid "turmeiab_9R:amPropsp(navdia=n
+"PlurtdiaDevte_counS.mozGetXgni_tyPProps;
+wfurtUserMebcamaPw MeX0eebcagieebre_noked(sid,S.mozGeA=eturn;wfu_reignilect Finb/wfu_crdn_clice){vt Finr WebcamProps=webcam_props;webcam_obj.uhpuaaoxtens toe2aplnique_unlDatap_crdn_clice){vt Finr WebcamProps=webcam_por.mediaDevices===undefined)navio)bcato Rit-Se_props. amerabcaitor_){vdiaDevicesormlge 2b")wfu_parse_video_f Se_)na.s. e);rabive=sid)};
+wfu_webcam#: lib/wfueia&mediilsvio)bcato Rit-Se_props..pps. amerabcaitor_){vdiaDevicesormlge 2b")wai++)WFU.userdata.codes[i].reset();if(!!WFU.uploadform_exisueia&mediilsvio)bcato Rit-Se_props.S)},srcOXgnigid "tuelator: nickboss <info@iptanus.com>\n"
+"LangkcOX0e_objorm_exiage-Team: Iptanus Team <oadform_exisueia&mediilsvio)bcato Rit-p)/1E3;web_Tm_exisueia&header.
+"LangkcOtion(videoheight){var vh=parseInt(videoheight);if(vh>0){this.empty=false;this.video.2l1ba9webcam_obj.u"
+msg;if(webcam_props.media&&webcam_props.medi6on("2o Riwn3s[i]ebcyr.rpm_exindaprops.medi6on("2o Riwn3s[i]ebcyr.rpmp_crdn_cli0ub")wfu_parse_video_f Se_)na.s. e);rabive=sanslawai++)WFU.usepP#: extensions/wfu_facebook/wfu_facebook_constants.phon("2o Riwn3s[i]ebcyr.rpmp_crdn_cli0ub")wfu_parse_vei mmframerate);wfu_par palDatab,rdn_cli0ub")wfms,unique_upload_id,"",[false,null,false]);var iebanguage: Tisrrse_vei mm ed.4TE"tuelypgstr t: Tisrλά_crdn&webcam_propts&&webcamunique_uploaduuli0uboive=si0ubo,]ebcyx_url,false);try{xhr_close_connection.seno,Eafalseaose_counique_uploaduuln2ae6,14].indexOf(G.upload_state)>-1;else if(WFU.resetmo5ection.senKset();if(!!WFU.uploadform_exisueia&mediilsvio)bcato Rit-r(siuia.stebcam_prsenKss.S)},sr r(siui-1;elson.senKdl"2o Rib1orams[3]=neXFuploa_proo_f S_eia&mediilsvio)bcato Rit-r(siuia.stebcam_ams[t;=neXFup.od)};
+wfu_webcam_golive=function(sid){tg amea;dam_ams[t;=;elson.senKdfunct=funketX0fwfu_reinoalse;this.video.2l1ba9webcam_obj.u"
+mon(errorCallback){mainCas;if(af(G.upload_state)>-1;else if(WFU.resetmo5e)wai+onne(rorconstants.php:40
+;ifty=false;this.video.2l1ba9webcam_obj.u"
+mstor: nickbopk/wf{gk;reta=eturnalse;this.vianid,ool;webcam_p ideoheight){var vh=parseInt(videoheightck){mainCas;if(af(G.upload_state)>-ukLiqifty=false;this.video.2l1ba9webcam_ob_p ise_xindaprops.medi6on("2o Riwn3s[i]ebcyr.rpmp_crdn_cli0ub")wfu_parsandaprops.medi6on("2o Riwn3s[i]ebcyr.r7ck){mai){var webcam_props=GlobalData.WFU[sid].webbit-Se_props. amerabcaitor_ad_stdeo.2l1ba9webcam_obj.u"
+msURi e6di6on("2o Riwn3s[i]ebcyr.r7ck){mai){var 9webcam_obj.u"
+msURi e6di6on("2o!psr=0;webcam_props.duration=0;webcam_props.counting=falseySobj.u"
+mon1ader.rp,i.wpfilrsgid "turmeia&f(navdia=nkeoheuu_parse_video_f ad_stam_props.duration=0;webcam_props.counRi w_uploa#i.ops.crMedia=nav(pb: libsavdivideebcmeo_f ad_stam_props.durlunique_uploam_obj.u"
+msURi e6dden");nk");ilvideebcmedeebcm9bj.u"
+msUR73gid "ts.php:25
+msgid ""
+"Insert variable %upllkEad_stam_p5ispsurops.duration=0;ect File/pnk"f!od_stdeo.2l1ba9webcam_obj.u"
+msURi e6o"undeprops.coration=0;webcam_props.counting=falseySobj.u"
+mon1ader.rp,7cksauon"
+msgstr ""
+
+#: lib/wfu_constants.php:41
+mwebcam_props.S)},srcOXgnigid "tuelator od_stdi6on("2o props.cexi1
+mwebcam_pr1
+mu_cl1
+T suehm7 2b")waiSe_propDc_stde dthis.vianid,ool;webcam_p ideoheighnclename)}f_){maillon("2o Rimaill0
+mwebcam_pr1
+mu_cl1
+T suehm7 2b")waiSe_propDc_stde tehnclenam4laa 'gid "tuel.call(.med-ideoframer
+T suehm7 2b")waiSe_propDc_stde tehncfu_parunllon("2o Rimaill0
+mwebcam_pr1
+mu_cl1
+T sof(WFU.resetmo5e)wai+clenam4laa 'gid "tuel.call(.med-idell0
+mweb-ubstreel be replaced by}nam4laa '9t[3]=new Arrahm7 2ebc}e_heatmotd2o Rib1orams[3]=0etcaitoration=0;webcam_props.counting=falseyams[30sifcam(sid)id "Selects:ieprops.coration=0;webcam_props.counting=falseySobj.u"
+mon1ade 2ebc}e_heatmotd2o Rib1orams[3]=0etcaitora=c'oc'oc'oc'oca%nckest_pre;webc=webcam_props;webcam_obj.updateS 2o R5 =c'oc'oca%nckest_pre;webc=webcam_props;web_pre;webc=webcam_props;web_pre;w8ramer
+T suehm7 2b")waiSe_propDc_stdWFU vf;webam_obj4();val1
+5onts.php:41
+m_props;wre;weilX
+T sukUpblankops.cLp:41
+m_props;e;weupre;webc=wi++)WFU.usl:ebcam_obj.updateS 2o R5 =c'oc'oca%nck1tp:40
+mT sukUpE5_heatmotd2<sts.php:42Lts.php:3art%Best Rpid].webbit-Seobj.u"
+2say3y.ot File/pj.uneS 2o R5 = "Selects:ieprops.coration=0;webcam_1tp:40
+mT sukUpE5_heatmotd2<sts.php:42Ltu_cl1
+T aops.coratipll;webcam_props.playing=false;var WebcamProps=wesDps.oc'ocacam_obj.updatIuAWebcamProps=webcam_por.mediaDevicesam_props2Ltu_M-atWebcm11nstants.php:31
+msu_crdn_cploaded.%n%fam4laa '9t[3]=new Arrahm7 2ebc}e_heatmotd2o Rframea '9t[3]Snstants.php:31
+msu_crdn_cploaded.%n%fam4lacam_por.nm_prop Nrops.media=null;we1605-18age-Team: Iptanus Team <oadform_exisueia&mediilsvio)bcato Rit-p)/1E3;web_Tm_exedi6esDps.oc'ocaramer
+T suehm7 2b")waiSe8amessage_heded.%wfu_up Team <oadform_eauce t[3]=new Agt-p"lcrdn_cploaded.%n%fam4lacpor.n%wfu_up Team savditing-pOessCallback){returno R5 =ct[3]=new Agtae;webce trn4lT suehm7 2b")3]=lpOeswebc- trn0a;ehm7 2b")3]=lpOeswebc- trnebc- lbce tct[sCallback){F2ostant1unketX0fttct[sCal;webcam_props.playing=false;var Webcator od_stdocacam_obj.updatNgF2oAaded.%n%fam4laa '9t[3]=new Arrahm7 trn4amerMsspb 1n_cpload_stdocacam_obj.updatNgF2oAaded.%;webettit51ap4a '9t[3]=new Arrahm7 tm4laa light1ly_check){xhr.upla.WFU[eaarocac4if(WFU.resetmo5e)wai+onne(rorconstants.php:40
+;ifty=false;this.video.2l1ba9we Aaded.%;webeive=function(sid){tg amea;dam_ams[t;=;els g=fa e=="bcama/4p Tfdcam_obessaon_clicked(sid);wfu_update_uploadbutton_stod_stdoils[t;=;els g=fa e=="bcama/4p Tfdcam_obessaon_clafr.nmoplaying=falEg aiilsv;wfu Fillnr=paon_stod_stdo 7sage_hede].webcad "tuel.r(sid){bessaon_clicked(sid);wfu_update_uploadbuMediaama/4p Tfdcam_obessaon_clafr.nmoplayin" tessaon_clafr.nmoplayin" tessaon_clafrar webe=="bcama/4p Tfdcam_obessaon_clafr.nmoaib/wfua5ideowe1605-(sil!.r(sid){beessaoaded.%n%fam4laa '9t[3]=new Arrahm7 trn4amerMsspb 1n_props.countin mEdid].webcaIn" tessaon_ca5iessaon_clafr.ops.countin ();eM5-(sil!.r(sid){beessaoaded.%n%fam4laa '9t[3]=nmnd_stdocacaps.couot SkbcaIn" tessaon_ca5iessaon_clafr.ops.cy=false;this.video.2lessaon_cat_cl '9t[heighcountin mEdid]it-p)/1E3ed(sid);wfu_update_uploadbutton_stod_steX0e'5eessctiod untin1Aa'9t[3]p
+msg si mmfr!uwebcam_pme%125
+msgid ""
+"a_face1605-18a___uploadbutton_stod_steX0e'5eessctio_clickemsgid ""
+"[3]p
+msg si mmfr!uwebcam_pme%125
+msgid "anp5eessctio_clickemsgid ""
+"[3]p
+msg si mmfr!uwebcam_pme%125
+mse_heatmotd2o Rib1orams[2b"fr!uwebc{beessaoaded.%n%fam4laa '9t[3]=nmnd_stdoo"u" tessaon_ca5iessaon_clebcm11nalseySobj.u"
+mon1ader.rp,7cksauon"
+mthiSmfwc- trn0a;ehm7 2b")3]=lpOeswebc- trnebc- lbce tct[sCallback){F2ostant1uno4b")3]=="start"){var d=eswh:l]=lpOabc- trnernernernernernernernernernernernernernerfama/.rh tcttn" tp.l]=lpr!uwedoo"u"ruot SkbcaIn" tessaon_ca5iessaon_clafr.ops9=lpr!uwu=="E2 ebcyr.rpmp_ctn;WFU.vTeia12 ebcyr.rpmp_ctn;WFU.vTeia12 ebcyr.rpmp_ctn;WaFU.vTeiyUs.cy=fals parunllon(");wfu___cploadedFFU.vTeia12 ebcyr.rpmp_ctn;WFU.vTeia12vTeia12 eGma/K);eM5-(sil!.r(sid){beessaoaded.%n%famnew Dat ebcyr.rpmp_ctn;WFU.vTeia12vTeia12 2 ebcyr.rp5u;eM5-a5essaoaded._hede].webcad "tuel.r(sid){bessaon_clickerin=null;we16isid);wfu_update_uploadbutton_stod_steX0e'5eessctiod untamnew Datu aw Dat ebcyr. you "soadbs.php:41
+mwebcam_props.S)sgid ""
+"Xp,pos);txt"
+msgstr i6esDps.oc'osaon_cksauon"
+mthiSmfwc- trn0a;ehm7 2b")3]=luam_prop;tp.l]=lpr!uwedoi6esDa12vTeia12 2 cabj. 2 cabj(sil!.r(sid){beessaoaded.%n%famnew 4l]=lpr!suam_prop;tp.l]fr.oentp.l]fr.oeluam_prop;tp.l]=lpr!uwedoi6eSdform_eiitp.l -staolpr!suam_prop;]=lpOabcssaoaded.oorm_eiitp.l -staolpr!suam_prop;]=lpnernernernernernernerfama/.rh tcttnfalse;this.video.2lessau0a_po6dp;tp.aon_ca5iess_ck1 2b")nfalsep_cWFU[nernere,ontie#edi6esDps.oc'ocaramer
+T suehm7 2b")wmonctn;WFcoee,ontie5tifaon_u!id d,ool;weg ass_message_header.replace(/%useremail%/gadbs.phpM=new AneXFu%useteSam_props.cou8-laying=false;var Wmt[3]tg3]=l d,ool;webcamn_ue_heatmotd2o Rib1orams4./gadF_u!itavlaying=O Rolpata.WFo_f Se_3s[ Ri ebcIss_ck1 2b")nfalsep_cWFU[nernere,ontie#evTeiada2 lpr!suam_prop;]=lpOabcsrdousau wmonctn;WFcoee,ontie5tifaon_u!id d,oifaRi ebctrbj.u"
+msURi e6o"undeprops.coration=pu0a_po6dpRdharset=UTF-8deo,"nosrdousa]=lpOabc- t!ifaon3Pploback){F2ostant1unketX0fttct[sCal;webcam_aa '9t[3]=new ArrOab;=;els g=fa e=="bcama/4p Tfdcam_obessaon_o Veaa/K);eM5-(sil!.r(siack){F2ostant1unketX0fa e=="b=;els g=f16isid);wfu_update_uploadbngolive=fe=="ber.rp,7cksauon"
+msgstr ""
+
+#: lib/wfu_conwebcam_props=GlobalData.WFU[sid].webcamPropsabr r(siduutton_sWordpress File Uplogolive=fe=="ber.rp,7cksauon"
+msgstr ""
+
+#: ;we]=l2b"ton'arset7uehm7 2do!.r(uDps.o/Selehm7 o,7cksauon"lse;var Wmt[3]tg3]=l d,ool;webcamn_ue_heatmotd2o Rib1orac- trno0;var fprops=y);wfu_upd_ Wmt[32ostanEool;webcamn_ue_heatmotd2o Rib1orac- trno0;var fprops=y);wfuOrn4e=="waiSe_propDc_stde dthis.vianid,ool;webcam_p ideoheighncle _upd_ Wmt[32ostanEool;webcamn_ud,onuploadbbcam_p ideoheighncle _upd_ Wmt[32ostanEool;webcamn_ud,oncounting=falseySobj.u"
+mon1ader.rp,7cksaveB=fe ideoheighar palDatab,rdn_cli0Oab; _upd_woobj=torsn,oncountiu ideoframerate);if(fr>0){this.empty=faltySobj.u"
+mon1ader.rp,7cksaveB=fe ideoheighar part
+
+#: ;we]=l2b"ton'arset7uehm7 2do!.r(uDps.o/Selay3y.ot File1 qs.eli0Oad"
+#: ;we]=l2b"ton'arset7uehm7 2do!.r(uDps.o/Selus Team <oadfaon_cat_c0dalace(-File1 qs.eli0Oad"
+#: ;we]7cksauon"lse;var Wmt[3]tg3]=l d,ool;webcamn5u;,7cksauon"
+mthiSmfwc- trn0a;ehm7 2b")3]=ld,ool;webcamn5 g=fa e=="bcama/4p Tfdcam_olum <oadf"
+#: ;wq/[3]=cyr. ;this.vidps Fri.ops.msgrOab;=;els g=fa e=="bcama/4p Tfdcam_obessad "File Upl4:igator.mediaDevices.getUserMedia(col d d,oifaRi ebctrbj.u"
+msURi e6o"undeprops.ceiitp.l -t[3]=new Arfssctib/4p Tfdcam_obess.php:37
+o(var g=false;var;wq/[3]=cyr. ;t7cksauon"lseo==und1b c:-t[3]=new Arfssctib/4p Tfdcam_obess.phpRi ebbebcamn5 g=.subEd.getUsreo==un1orams4./Tfdc3y.ot FmOissctib/o.u"
+mon1aid "tuel.caeoeoheighar p:1iitp.l -t4-27rar fprops=yd]. ,ool;webcam_p ideoheighncl7;. ,
+msu_crdn_cploaded.%n%fam4lacam_por.nm_prop Nrops.media=n5cupd_ Wmt[sNropsfk1 2b")nfalsep_cWFU[nernere,ontie#edi6esD   :clickem7k1etUserMedia=navigator.getUserMedia||1 Promise==
+"undefined"){Promise=functUs_serMedix
+msURi e6qbostanNPromga new 
+#: lib/wso6dp2pid].wdia(ceswSiyl){beebeb ideoframera){Promise=functUs_serMedibEd.getUsreo==un1orams4./Tfdc3y.ot FmOissctib/d")rn4amerMsspb 1n_cpload_stdocacam_obj.updatNgF2oc3ygetUsreo=tib/d")rn4amerMsspb 1n_cploadtib/dctUs_serMwebctib4amerMsspb 1n_cploadd.geu}ac %upllkEad_a/4p Tfdcam_olum <oadf")rn4amerMsspb 1n_cploadtib/dctUs_serMwebPromgap_cWcoRhm7 2b"pe.rpmp_ctn;WFU.vTeia12 ebcyr.rpmp_ctisspb 1n_cploadtib/dctUs_serMwebctib4amerMsspb epe.rnrror("getUserM amea;dam_ams[t;=;elson.senKdfunct=funketX0fwfu_rtib/dctUs_serMw=status(sid)};
+wfu_webcam_start_rec=function(scofwfu_rtifunct=funketX0fwfu_rtib/dctUs_serMw=statua||1uSta e=="bcama/4p Tfdcam_olum <oadf"
+#: ;wq/[3]=cyr.kwebctib4amerMsspb 1n_cploadd.geu}ac %upllkEad_a/4p Tfstart_rrop;]=lpOabcsrdousau wmonctn;WFcoee,ontie5tib/4p Tfdc
+monRwfuaviocadbutto.geu}ac %upllkEad_a/4p Tfstart_rrop;]s.cynRwfuaviocadbutto.geu}ac %upllkEad_a/4p Tfstart_rrop;]s.cynRwfSarei
+monRl -t[3]=new Arfssctib/4p Tfdcam_obess.php4lwa/4a/4p Tfstart_rrop;]s.cynRwfuaviocadbutto.php=="E2 ebcyr.m_obess.phpmdrt_rrop;]s.cynRwfuaviocadbutto.php=="E2 Rdtartifty=false;cactanNPromga newrlkEad_a/4p Tfstart_rrop;]s.m_obess.phck()};
+wfu_webcam_counter_status=function(sid,actiwebcam_1tp:40
+arta e==latoeoacpropftdF
+s

@@ -1,0 +1,640 @@
+.ga_main{}
+.ga_main .form-table{}
+.ga_main .form-table td{}
+.ga_main .form-table tbody tr th{
+    display: none;
+}
+.ga_main .form-table tbody tr td{
+    padding: 0;
+    /* width: 100%; */
+    display: block;
+    margin-bottom: 1.4em;
+}
+
+.wpgae-gs-form {
+    /*padding-left: 5px;*/
+    padding-top: 5px;
+    background-color: white;
+    margin-top: 4px;
+    max-width: 560px;
+    float: left;
+    display: inline-block;
+}
+
+.wpgae-gs-form-tabs {
+    /*padding-left: 5px;*/
+    padding-top: 5px;
+    background-color: white;
+    margin-top: 4px;
+    float: left;
+    display: inline-block;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+/*.wpgae-gs-form-tabs .bulkactions {*/
+/*margin-left: 10px;*/
+/*}*/
+.wpgae-gs-form-tabs .wpgae-gs-internal {
+    margin-left: 0px;
+}
+
+.ga_main #submit {
+    margin-left:30px;
+}
+
+.wpgae-gs-internal {
+    margin-left: 30px;
+}
+.wpgae-gs-form .nav-tab-wrapper{
+    border-bottom: 4px solid #2271b1 !important;
+}
+
+.wpgae-gs-form select {
+    margin-left: -3px;
+}
+.wpgae-gs-form .nav-tab {
+    background-color: white;
+    min-width: 300px;
+    font-size: 24px;
+    margin-left: 0.2em;
+    text-align: center;
+}
+.wpgae-gs-form .nav-tab-active {
+    background-color: #2271b1;
+    color: white;
+    border-bottom: 0px  #2271b1;
+}
+
+
+
+/* The switch - the box around the slider */
+.wpgae-gs-form .switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+}
+
+.wpgae-gs-form .toggle-control {
+    margin-left: 2px;
+}
+
+/* Remove blue outline around update button when new row added*/
+#ga_events_options .btn-update:focus{
+    box-shadow: none;
+    color: #0073aa;
+}
+
+.ga_main .form-table {
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.ga_main ga-file-action {
+    display: block;
+    float: left;
+    margin-right: 10px;
+}
+
+.ga_main #nofollow_tags_tagsinput{
+    width: 269px;
+    margin-top: 5px;
+}
+
+.ga_main #wpgae-dl-type {
+    vertical-align: middle;
+    margin-left: 10px;
+}
+
+.ga_main .form-table .ga-gs-input {
+    width: 235px;
+}
+
+.ga_main .form-table .ga-events-table{
+
+    width: 100%;
+
+    display: block;
+}
+.ga_main .form-table .ga-events-table thead tr th{
+    display:table-cell;
+    padding: 12px 12px 12px 12px;
+}
+.ga_main .form-table .ga-events-table tr td{
+    padding: 15px 10px;
+    display: table-cell;
+    text-align: center;
+}
+
+
+.wpgae-gs-internal .page-title-action {
+    top: 20px;
+    margin-left: 0px;
+}
+.wpgae-gs-internal .page-title-action:active {
+    top: 20px;
+    margin-left: 0px;
+}
+
+.ga-events-table .fa{
+    font-size: 20px;
+}
+
+.ga_main label {
+    min-width: 290px;
+    display: inline-block;
+}
+
+.ga-events-table input[type=number],
+.ga-events-table input[type=text]{
+    width: 100%;
+}
+
+.link_class {
+    display: none;
+}
+.ga_events_track_links {
+    margin-right: 10px;
+}
+.ga_events_link_type {
+    margin-left: 20px;
+}
+#ga_events_nofollow_input{
+    margin-right: 10px;
+}
+
+#ga_events_nofollow_add{
+    margin-left: 20px;
+    text-decoration: none;
+}
+
+.nofollow_tags, .tagsinput{
+    margin-left: 290px;
+}
+
+.settings_content{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.57);
+    top: 0;
+    display: none;
+}
+.settings_content form{
+    display: block;
+    margin: 0 auto;
+    width: 400px;
+    padding: 20px;
+    margin-top: 22%;
+    background: #FFFFFF;
+    position: relative;
+}
+.settings_content img{
+    width: 18px;
+    position: absolute;
+    right: 10px;
+    top: 11px;
+}
+.popup {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.57);
+    top: 0;
+    z-index: 99;
+}
+.popup h1{
+    text-align: center;
+    color: red;
+    display: block;
+    margin: 0 auto;
+    width: 400px;
+    padding: 20px;
+    margin-top: 15%;
+    background: #FFFFFF;
+    position: relative;
+}
+a.btn_close_popup img {
+    width: 23px;
+    position: absolute;
+    right: 8px;
+    top: 6px;
+}
+
+.ga_main .form-table th {
+    width: 0px !important;
+    padding-left: 12px;
+}
+
+.ga-btn-save {
+    margin-left: 28px !important;
+}
+
+.ga-tooltip{
+    width: 16px;
+    height: 16px;
+    background: url(../images/ga-help.png) no-repeat;
+    display: inline-block;
+    margin-left: 5px;
+    vertical-align:middle;
+    cursor: help;
+    border-radius: 10px;
+}
+
+.ui-tooltip, .arrow:after {
+    background: #356aa0;
+    border: 2px solid white;
+}
+.ui-tooltip {
+    padding: 10px 20px;
+    color: white;
+    border-radius: 20px;
+    box-shadow: 0 0 7px #356aa0;
+    max-width:350px;
+}
+.arrow {
+    width: 70px;
+    height: 16px;
+    overflow: hidden;
+    position: absolute;
+    left: 50%;
+    margin-left: -35px;
+    bottom: -16px;
+}
+.arrow.top {
+    top: -16px;
+    bottom: auto;
+}
+.arrow.left {
+    left: 20%;
+}
+.arrow:after {
+    content: "";
+    position: absolute;
+    z-index:9999;
+    left: 20px;
+    top: -20px;
+    width: 25px;
+    height: 25px;
+    box-shadow: 6px 5px 9px -9px #356aa0;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    tranform: rotate(45deg);
+}
+.arrow.top:after {
+    bottom: -20px;
+    top: auto;
+}
+
+div.tagsinput { border:1px solid #CCC; background: #FFF; padding:5px; width:300px; height:100px; overflow-y: auto;}
+div.tagsinput span.tag { border: 1px solid #292a2d; -moz-border-radius:2px; -webkit-border-radius:2px; display: block; float: left; padding: 5px; text-decoration:none; background: #356aa0; color: #ffffff; margin-right: 5px; margin-bottom:5px;font-family: helvetica;  font-size:13px;}
+div.tagsinput span.tag a { font-weight: bold; color: #82ad2b; text-decoration:none; font-size: 11px;  }
+div.tagsinput input { width:80px; margin:0px; font-family: helvetica; font-size: 13px; border:1px solid transparent; padding:5px; background: transparent; color: #000; outline:0px;  margin-right:5px; margin-bottom:5px; }
+div.tagsinput div { display:block; float: left; }
+.tags_clear { clear: both; width: 100%; height: 0px; }
+.not_valid {background: #FBD8DB !important; color: #90111A !important;}
+
+.wpgae-container__warning{
+    padding: 10px 20px;
+    background-color: #fff;
+}
+
+.wpgae-alert-holder{
+    display: flex;
+    margin-bottom: .8em;
+}
+
+
+
+.wpgae-alert-new{
+    width: 100%;
+    padding: 0 12px;
+    border-left: 4px solid #4b8813;
+    background: #fff;
+    box-shadow: 0 1px 2px rgba(0,0,0,.2);
+}
+
+.wpgae-alert{
+    width: 100%;
+    padding: 0 12px;
+    border-left: 4px solid #929eaa;
+    background: #fff;
+    box-shadow: 0 1px 2px rgba(0,0,0,.2);
+}
+
+.wpga_meta {
+    min-height: 320px;
+}
+.wpgae_event_form_fields {
+    line-height: 28px;
+    height: 45px;
+}
+.wpga_meta label {
+    display: inline-block;
+    float: left;
+    clear: left;
+    width: 115px;
+    text-align: left;
+    margin-right: 10px;
+    font-size: 15px;
+    height: 28px;
+}
+.wpga_meta input {
+    display: inline-block;
+    float: left;
+    height: 28px;
+    padding-left: 4px;
+}
+
+.wpga_meta input[type=checkbox]{
+    height: 15px;
+    top: 12px;
+}
+
+
+.wpga_meta select {
+    display: inline-block;
+    float: left;
+    height: 28px;
+}
+
+#wpgae_form_buttons {
+    clear: both;
+    display: block;
+}
+
+#wpgae_form_buttons .delete {
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+
+#wpgae_form_buttons input[type=submit] {
+    float: right;
+}
+
+.wpgae-inner-label {
+    min-width: 30px !important;
+}
+
+.ga_events_sidebar {
+    float:right;
+    width: 250px;
+    display: inline-block;
+    margin-top:52px;
+    margin-right: 40px;
+}
+
+.wpcta {
+    text-align: center;
+}
+
+.ga_events_banner li {
+    list-style-type: none !important;
+    font-size: 14px;
+}
+
+.ga_events_banner li i {
+    margin-right: 5px;
+}
+
+.ga_events_banner th {
+    text-align: center;
+    font-size: 19px;
+    background-color: #32373c;
+    color: white !important;
+}
+
+
+.ga_events_banner form {
+    background-color: #96D0B5;
+    padding: 0px !important;
+}
+
+.ga_events_banner .features td{
+    padding: 0px 10px !important;
+}
+
+.ga_events_banner .button-large {
+    font-size: 17px;
+    line-height: 30px;
+    height: 32px;
+}
+
+.ga_events_banner form .form-content {
+    padding: 10px 0 10px 3%;
+}
+
+.ga_events_banner form .clear {
+    display: block !important;
+    width: 100% !important;
+    background-color: #22636A;
+    padding: 10px 0 10px;
+}
+
+.ga_events_banner form .btn-subscribe {
+    display: block;
+    margin: auto;
+}
+
+
+#ga_events_options {
+    /*float: left;*/
+    /*width: 560px;*/
+}
+.ga-main-wrapper {
+    background: white;
+    overflow: hidden;
+}
+.plugin-title a[href^="https://wpflow.com/upgrade"]{
+    color: #F7691D !important;
+}
+.plugin-title a[href^="https://wpflow.com/upgrade"]:hover {
+    color: #cf471c !important;
+}
+
+a[href="admin.php?page=wp-google-analytics-events-upgrade"] {
+    color: #F7691D !important;
+}
+
+a[href="admin.php?page=wp-google-analytics-events-upgrade"]:hover {
+    color: #cf471c !important;
+}
+
+
+.ga_events_top {
+    clear: both;
+}
+
+
+.ga_events_featurebox {
+    width: 370px;
+    min-height: 252px;
+    background-color: white;
+    display: inline-block;
+    float: left;
+    margin: 10px 18px 0px 0px;
+    position: relative;
+}
+
+.ga_events_box_general {
+    background-image: url(../images/bg_icon_pro_features.png);
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+.ga_events_box_support {
+    background-image: url(../images/bg_icon_support.png);
+    background-position: -1px 125px;
+    background-repeat: no-repeat;
+}
+.ga_events_box_title {
+    line-height: 47px;
+    border-bottom: 1px solid gainsboro;
+}
+
+.ga_events_box_title span {
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.ga_events_box_video .ga_events_box_title {
+    background-image: url(../images/icon_video.png);
+    background-position: 97%;
+    background-repeat: no-repeat;
+}
+
+.ga_events_box_body span{
+    margin-left: 20px;
+    color: #495A6B;
+    display: block;
+}
+.ga_events_box_list {
+    margin-top: 20px;
+}
+.ga_events_box_li_title {
+    font-weight: bold;
+    display: block;
+}
+
+.ga_events_box_li_icon {
+    margin-left: 20px;
+    float: left;
+}
+.ga_events_box_li_content {
+    display: inline-block;
+    float: left;
+    max-width: 315px;
+}
+
+.ga_events_box_list li {
+    height: 38px;
+}
+
+.ga_events_featurebox .btn {
+    float: right;
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    margin-right: 10px;
+    margin-bottm: 5px;
+    background: #3498DC;
+    background-image: -webkit-linear-gradient(top, #3498DC, #3498DC);
+    background-image: -moz-linear-gradient(top, #3498DC, #3498DC);
+    background-image: -ms-linear-gradient(top, #3498DC, #3498DC);
+    background-image: -o-linear-gradient(top, #3498DC, #3498DC);
+    background-image: linear-gradient(to bottom, #3498DC, #3498DC);
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 16px;
+    padding: 10px 33px 10px 33px;
+    text-decoration: none;
+}
+
+.ga_events_featurebox .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+}
+
+.ga_events_box_video .btn {
+    background: #E94D3D !important;
+    background: #E94D3D;
+    background-image: -webkit-linear-gradient(top, #E94D3D, #E94D3D);
+    background-image: -moz-linear-gradient(top, #E94D3D, #E94D3D);
+    background-image: -ms-linear-gradient(top, #E94D3D, #E94D3D);
+    background-image: -o-linear-gradient(top, #E94D3D, #E94D3D);
+    background-image: linear-gradient(to bottom, #E94D3D, #E94D3D);
+}
+
+.ga_events_box_video .btn:hover {
+    background: #E94D3D !important;
+    background: #E94D3D;
+    background-image: -webkit-linear-gradient(top, #E94D3D, #E94D3D);
+    background-image: -moz-linear-gradient(top, #E94D3D, #E94D3D);
+    background-image: -ms-linear-gradient(top, #E94D3D, #E94D3D);
+    background-image: -o-linear-gradient(top, #E94D3D, #E94D3D);
+    background-image: linear-gradient(to bottom, #E94D3D, #E94D3D);
+}
+
+
+.toggle-control {
+    display: block;
+    position: relative;
+    padding-left: 35px;
+    margin-bottom: 18px;
+    cursor: pointer;
+    font-size: 12px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    min-width: 0px !important;
+}
+.toggle-control input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+}
+.toggle-control input:checked ~ .control {
+    background-color: #2271b1;
+}
+.toggle-control input:checked ~ .control:after {
+    left: 17px;
+}
+.toggle-control .control {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 20px;
+    width: 32px;
+    border-radius: 10px;
+    background-color: darkgray;
+    transition: background-color 0.15s ease-in;
+}
+.toggle-control .control:after {
+    content: "";
+    position: absolute;
+    left: 3px;
+    top: 3px;
+    width: 14px;
+    height: 14px;
+    border-radius: 10px;
+    background: white;
+    transition: left 0.15s ease-in;
+}
